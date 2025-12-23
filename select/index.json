@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Bluetooth Love",
+  "base_artist": "Yabai T-Shirts Yasan",
+  "createdAt": "2025-12-23T09:12:58.846055Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bluetooth Love",
+      "artist": "Yabai T-Shirts Yasan",
+      "has_synced": true,
+      "path": "select/01_Bluetooth_Love_Yabai_T-Shirts_Yasan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bluetooth Love",
+      "artist": "ヤバイtシャツ屋さん",
+      "has_synced": true,
+      "path": "select/02_Bluetooth_Love_ヤバイtシャツ屋さん.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bluetooth Love",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_01_Bluetooth_Love_ヤバイTシャツ屋さん.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Bluetooth Love",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_02_Bluetooth_Love_ヤバイTシャツ屋さん.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Bluetooth Love",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_03_Bluetooth_Love_ヤバイTシャツ屋さん.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Bluetooth Love",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_04_Bluetooth_Love_ヤバイTシャツ屋さん.txt"
+    }
+  ]
+}
